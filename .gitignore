@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.streamlit/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+venv/
+env/
+.venv/
+headline_generator/
