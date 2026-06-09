@@ -2,8 +2,6 @@
 torch
 transformers
 sentencepiece
-tensorflow-cpu
-keras
 numpy
 pandas
 scikit-learn
@@ -11,4 +9,5 @@ nltk
 joblib
 streamlit
 plotly
-
+tensorflow-cpu==2.16.1
+keras==3.3.3
