@@ -1,4 +1,7 @@
-tensorflow
+torch==2.2.2+cpu
+transformers
+sentencepiece
+tensorflow-cpu
 keras
 numpy
 pandas
@@ -7,6 +10,3 @@ nltk
 joblib
 streamlit
 plotly
-transformers
-torch
-sentencepiece
