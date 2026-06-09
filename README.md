@@ -1,6 +1,7 @@
 # News Article Classification & Headline Generation System
 <img width="1908" height="811" alt="image" src="https://github.com/user-attachments/assets/9f841d61-0f75-46e4-b52d-94571245a58c" />
-## 🔗Live Link: [[Table of Contents](https://sota-cifar-10-classifier.streamlit.app/)](https://news-article-classification-system.streamlit.app/)
+
+## 🔗Live Link: [Streamlit Link](https://news-article-classification-system.streamlit.app/)
 A complete end-to-end NLP system designed to classify news articles into target categories and automatically generate concise headlines from article descriptions.
 
 The project uses the BBC News dataset and implements:
