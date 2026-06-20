@@ -10,3 +10,5 @@ venv/
 env/
 .venv/
 headline_generator/
+*Zone.Identifier
+*zone.identifier
